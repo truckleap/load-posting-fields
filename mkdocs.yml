@@ -1,0 +1,4 @@
+site_name: Load Posting Fields, Explained
+site_description: A field-by-field reference for reading a freight load posting before you call the broker.
+nav:
+  - Home: index.md
